@@ -1,0 +1,12 @@
+{
+	"Name": "Realtime Cookies per Second",
+	"ID": "hugomgwtf_realtime_cps",
+	"Author": "hugomgwtf",
+	"Description": "A simple mod that adds a \"realtime CPS\" tracker, which displays the actual cookies per second including manual clicks.",
+	"ModVersion": 1.1,
+	"GameVersion": 2.043,
+	"Date": "15/05/2022",
+	"Dependencies": [],
+	"Disabled": 1,
+	"AllowSteamAchievs":1
+}
